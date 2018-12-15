@@ -32,7 +32,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String COL2 = "address";
     public static final String COL3 = "contact";
     public static final String COL4 = "email";
-
+//Yo yo hunney singh new song is coming soon
 
 
     public static final String SQL_CREATE_TABLE = "CREATE TABLE IF NOT EXISTS "+ TABLE_NAME + "(Name TEXT,Address TEXT,Contact INTEGER,Email TEXT) ";
